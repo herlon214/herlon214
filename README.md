@@ -11,7 +11,7 @@
 - [Transmission RSS](https://github.com/herlon214/transmission-rss) - Read torrent RSS and publish the new entries to Transmission.
 - [MKV Seat](https://github.com/herlon214/mkv-seat) - Simple project that uses mkvextract to extract subtitles from videos.
 - [Go Cover Treemap](https://github.com/nikolaydubina/go-cover-treemap) - Pretty cool project to generate code coverage SVG. I helped a bit with filtering by directories.
-- [Redis Monitor Prometheus](https://github.com/herlon214/redis-monitor-prometheus) - Export your redis queries to prometheus.
+- [Redis Monitor Prometheus](https://github.com/herlon214/redis-monitor-prometheus) - Export redis queries to prometheus.
 - [NordVPN](https://github.com/herlon214/nordvpn) - Simple library to fetch NordVPN servers.
-- [Gitlab Registry GC](https://github.com/herlon214/gitlab-registry-gc) - Old project where made some sort of garbage collector for Gitlab Registry. At that point we needed to manually delete the docker images from there. Probably not useful anymore.
+- [Gitlab Registry GC](https://github.com/herlon214/gitlab-registry-gc) - Old project where I made some sort of garbage collector for Gitlab Registry. At that point we needed to manually delete the docker images from there.
 
