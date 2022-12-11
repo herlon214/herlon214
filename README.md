@@ -1,16 +1,17 @@
-### Hi there 👋
+# println!("hello world")
 
-<!--
-**herlon214/herlon214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My current setup: [neovim, tmux, alacritty, nushell](https://gist.github.com/herlon214/c5c3fab663a50ec79fbc084deefeb2d8)
 
-Here are some ideas to get you started:
+🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Latest things I've been working on:
+- ⭐ [Advent Of Code 2022](https://github.com/herlon214/advent-of-code-2022) - Trying to resolve this year's challenge using Rust.
+- [Sonarqube PR Issues](https://github.com/herlon214/sonarqube-pr-issues) - A simple bot that request code review in your PRs using Sonarqube data.
+- [Nushell](https://github.com/nushell/nushell) - I've been helping there in the completions area.
+- [Transmission RSS](https://github.com/herlon214/transmission-rss) - Read torrent RSS and publish the new entries to Transmission.
+- [MKV Seat](https://github.com/herlon214/mkv-seat) - Simple project that uses mkvextract to extract subtitles from videos.
+- [Go Cover Treemap](https://github.com/nikolaydubina/go-cover-treemap) - Pretty cool project to generate code coverage SVG. I helped a bit with filtering by directories.
+- [Redis Monitor Prometheus](https://github.com/herlon214/redis-monitor-prometheus) - Export your redis queries to prometheus.
+- [NordVPN](https://github.com/herlon214/nordvpn) - Simple library to fetch NordVPN servers.
+- [Gitlab Registry GC](https://github.com/herlon214/gitlab-registry-gc) - Old project where made some sort of garbage collector for Gitlab Registry. At that point we needed to manually delete the docker images from there. Probably not useful anymore.
+
