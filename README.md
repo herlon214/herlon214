@@ -1,4 +1,4 @@
-# println!("hello world")
+# println!("hello world");
 
 💻 My current setup: [neovim, tmux, alacritty, nushell](https://gist.github.com/herlon214/c5c3fab663a50ec79fbc084deefeb2d8)
 
