@@ -5,7 +5,7 @@
 🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
 
 🔥 Latest things I've been working on:
-- ⭐ [Advent Of Code 2022](https://github.com/herlon214/advent-of-code-2022) - Trying to resolve this year's challenge using Rust.
+- ⭐ [Advent Of Code 2022](https://github.com/herlon214/advent-of-code-2022) - Trying to resolve 2022 challenge using Rust.
 - [Sonarqube PR Issues](https://github.com/herlon214/sonarqube-pr-issues) - A simple bot that request code review in your PRs using Sonarqube data.
 - [Nushell](https://github.com/nushell/nushell) - I've been helping there in the completions area.
 - [Transmission RSS](https://github.com/herlon214/transmission-rss) - Read torrent RSS and publish the new entries to Transmission.
