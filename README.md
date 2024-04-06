@@ -1,6 +1,6 @@
 # println!("hello world");
 
-💻 My current setup: [neovim, tmux, alacritty, nushell](https://gist.github.com/herlon214/c5c3fab663a50ec79fbc084deefeb2d8)
+💻 My current setup: [vscode, tmux, alacritty, zsh](https://gist.github.com/herlon214/c5c3fab663a50ec79fbc084deefeb2d8)
 
 🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
 
