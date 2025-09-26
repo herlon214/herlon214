@@ -1,11 +1,12 @@
 # println!("hello world");
 
-💻 My current setup: [vscode, tmux, alacritty, zsh](https://gist.github.com/herlon214/c5c3fab663a50ec79fbc084deefeb2d8)
+💻 My current setup: [cursor, ghostty, zsh]
 
 🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
 
 🔥 Latest things I've been working on:
-- ⭐ [Advent Of Code 2024](https://github.com/herlon214/advent-of-code-2024) - Trying to resolve 2024 challenge using Go.
+- [Go Neural](https://github.com/herlon214/go-neural) - Experiments with neural networks in Go
+- [Advent Of Code 2024](https://github.com/herlon214/advent-of-code-2024) - Trying to resolve 2024 challenge using Go.
 - [Advent Of Code 2023](https://github.com/herlon214/advent-of-code-2023) - Trying to resolve 2023 challenge using Python.
 - [Advent Of Code 2022](https://github.com/herlon214/advent-of-code-2022) - Trying to resolve 2022 challenge using Rust.
 - [Sonarqube PR Issues](https://github.com/herlon214/sonarqube-pr-issues) - A simple bot that request code review in your PRs using Sonarqube data.
